@@ -1,0 +1,19 @@
+# project-local contains your personal configuration choices and state
+/anaconda-project-local.yml
+
+# Files autocreated by Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook stuff
+/.ipynb_checkpoints
+
+# Spyder stuff
+/.spyderproject
+
+# Manually added ignore files
+email_info.py
+.ipnyb_checkpoints
+Executable-file
